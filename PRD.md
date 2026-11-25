@@ -1,7 +1,12 @@
                     Product Requirement Document (PRD)
 Product name : ReturnIt
 Team : Group 1 
-Group Members : SAHEED JOSHUA ADEKUNLE  (leader)
+Group Members : SAHEED JOSHUA ADEKUNLE  25/1169
+               OPEYEMI SAMUEL OLATOMIWA  25/1956
+			   UBANI IKECHI FRANKLYN   25/0201
+			   ONYIAORAH ISREAL OSINACHI 25/2098
+			   NWACHUKWU LUCKY TOCHI  25/2605
+			   JIMOH BALOGUN AYOBAMI  25/1374
 
 The Problem
     Problem statement
