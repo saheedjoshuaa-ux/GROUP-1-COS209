@@ -9,29 +9,29 @@ Students and staff lose items on campus every day: ID cards, phones, chargers, c
 Where and how I observed it
 Many people misplace their stuff and have a hard time finding them why don’t staff and students just snap and upload misplaced items and students also put their misplaced item incase if found.
 Why this problem matters
-•	Losing an ID card, calculator, or textbook can block access to exams, hostels, or lectures, and replacing them costs time and money.
-•	Phones, keys, and laptops hold personal information and cost a lot to replace, so a quick return protects both safety and finances.
-•	Honest finders have no simple way to return items, so items sit in bags and rooms or get passed from person to person.
-•	Information is scattered: a post in one WhatsApp group never reaches students in other levels, departments, or hostels.
-•	Without a record, the school cannot see what is lost, where, or how often, so it cannot improve the process.
+Losing an ID card, calculator, or textbook can block access to exams, hostels, or lectures, and replacing them costs time and money.
+Phones, keys, and laptops hold personal information and cost a lot to replace, so a quick return protects both safety and finances.
+	Honest finders have no simple way to return items, so items sit in bags and rooms or get passed from person to person.
+	Information is scattered: a post in one WhatsApp group never reaches students in other levels, departments, or hostels.
+	Without a record, the school cannot see what is lost, where, or how often, so it cannot improve the process.
 Who Has the Problem
 Primary users
 Students on campus (all levels, both resident and non-resident) who lose items, and students who find items and want to return them.
  Secondary users
-•	The campus security unit and any lost property desk, who currently hold found items and answer questions
-•	Lecturers and staff who lose or find items in lecture halls and offices
-•	Hostel and hall officials who receive items left in common areas
-•	School management, who would benefit from knowing where and how often items go missing
+	The campus security unit and any lost property desk, who currently hold found items and answer questions
+	Lecturers and staff who lose or find items in lecture halls and offices
+	Hostel and hall officials who receive items left in common areas
+School management, who would benefit from knowing where and how often items go missing
 User profile / persona
 Amaka, 19, 200-level student. She uses WhatsApp daily and carries a smartphone. After an evening lecture she realises her ID card and calculator are missing. She does not know who found them, which class group to post in, or whether the security unit has anything. She spends two days messaging friends and checking lecture halls, and still has no answer. Meanwhile, a classmate named Tobi has picked up an ID card in the hall and wants to return it but does not know whose it is.
 Research
-3.1 How people cope today
-•	Posting in class or department WhatsApp groups and WhatsApp statuses
-•	Asking friends, classmates, and course reps
-•	Walking back to lecture halls, the library, the cafeteria, or hostels to look
-•	Asking at the security unit or lost property desk, where one exists
-•	Pinning notices on notice boards
-•	Giving up and replacing the item
+ How people cope today
+Posting in class or department WhatsApp groups and WhatsApp statuses
+	Asking friends, classmates, and course reps
+Walking back to lecture halls, the library, the cafeteria, or hostels to look
+	Asking at the security unit or lost property desk, where one exists
+Pinning notices on notice boards
+	Giving up and replacing the item
 Existing solutions
 Existing solution	What it does	Where it falls short
 WhatsApp groups and statuses	Quick posts to people in the same group	Reaches only members of that group, posts get buried quickly, no search, no record of what was returned
@@ -106,32 +106,32 @@ Sign in with school email	Prevents spam and fake accounts	Q10: trust worries
 
 MVP (Version 1)
  What is in the MVP
-•	Sign in with a school email address
-•	Post a found item: photo, category, short description, place and time found, where it is being kept
-•	Post a lost item: description, category, place and time last seen
-•	Browse all items with search and filters for category, place, and date, and a toggle between Lost and Found
-•	Claim an item: the claimant sends their details and answers a verification question set by the finder
-•	Finder or admin approves a claim and shares contact details only after approval
-•	Mark an item as Returned
-•	Items hidden automatically after 30 days (configurable)
-•	Admin page for the security unit or a student admin to review posts and remove abuse
-•	Works well on mobile browsers
+ 	Sign in with a school email address
+	Post a found item: photo, category, short description, place and time found, where it is being kept
+	Post a lost item: description, category, place and time last seen
+	Browse all items with search and filters for category, place, and date, and a toggle between Lost and Found
+	Claim an item: the claimant sends their details and answers a verification question set by the finder
+	Finder or admin approves a claim and shares contact details only after approval
+	Mark an item as Returned
+	Items hidden automatically after 30 days (configurable)
+	Admin page for the security unit or a student admin to review posts and remove abuse
+	Works well on mobile browsers
  What is NOT in the MVP (and why)
-•	Automatic photo matching of lost and found items: useful but complex, so a basic search covers the need first.
-•	Push notifications: email alerts are enough for the first version.
-•	QR tag stickers for personal items: needs production and cost, so this is a later phase.
-•	Chat inside the app: contact is shared only after approval, which avoids building and moderating a chat.
-•	Rewards or ratings for finders: needs moderation and design, and is not essential to the core problem.
-•	Multiple campuses or schools: the first version focuses on one school.
+	Automatic photo matching of lost and found items: useful but complex, so a basic search covers the need first.
+	Push notifications: email alerts are enough for the first version.
+	QR tag stickers for personal items: needs production and cost, so this is a later phase.
+	Chat inside the app: contact is shared only after approval, which avoids building and moderating a chat.
+	Rewards or ratings for finders: needs moderation and design, and is not essential to the core problem.
+	Multiple campuses or schools: the first version focuses on one school.
  User stories
-•	As a student who lost my ID card, I want to search all found items so that I can see if someone has already picked it up.
-•	As a student who found a phone, I want to post it with a photo so that the owner can find it quickly.
-•	As an owner, I want to claim my item by answering a verification question so that no one else can take it.
-•	As a finder, I want to share my contact details only with a verified owner so that I stay safe and private.
-•	As a security officer, I want to list the items we hold so that students know to collect them.
-•	As a student, I want to filter by category and place so that I only see items that could be mine.
-•	As an admin, I want to remove fake or abusive posts so that the platform stays trustworthy.
-•	As a user, I want to mark an item as returned so that the list stays clean.
+	As a student who lost my ID card, I want to search all found items so that I can see if someone has already picked it up.
+	As a student who found a phone, I want to post it with a photo so that the owner can find it quickly.
+	As an owner, I want to claim my item by answering a verification question so that no one else can take it.
+	As a finder, I want to share my contact details only with a verified owner so that I stay safe and private.
+	As a security officer, I want to list the items we hold so that students know to collect them.
+	As a student, I want to filter by category and place so that I only see items that could be mine.
+	As an admin, I want to remove fake or abusive posts so that the platform stays trustworthy.
+	As a user, I want to mark an item as returned so that the list stays clean.
  Requirements
 Functional requirements
 1.	The system must let a user sign in with a school email address.
@@ -145,20 +145,20 @@ Functional requirements
 9.	The system must hide items that are returned or older than the set expiry period.
 10.	The system must let an admin review, edit, and remove posts and manage users.
  Non-functional requirements
-•	Security: only school email addresses can sign in, passwords are never stored in plain text, the admin area is protected, and all traffic uses HTTPS.
-•	Privacy: contact details and the verification answer are hidden from the public, and the system warns users to cover ID card numbers and personal details in photos.
-•	Performance: pages should load quickly on mobile data, and photos are compressed before upload.
-•	Usability: a user can post an item in under two minutes and understand the page without instructions.
-•	Reliability: posts and claims are never lost, and the site remains available during busy periods such as the start of the semester and exam weeks.
-•	Moderation: users can report a post, and an admin can remove it.
-•	Compatibility: works on common mobile browsers and on desktop.
+	Security: only school email addresses can sign in, passwords are never stored in plain text, the admin area is protected, and all traffic uses HTTPS.
+	Privacy: contact details and the verification answer are hidden from the public, and the system warns users to cover ID card numbers and personal details in photos.
+	Performance: pages should load quickly on mobile data, and photos are compressed before upload.
+	Usability: a user can post an item in under two minutes and understand the page without instructions.
+	Reliability: posts and claims are never lost, and the site remains available during busy periods such as the start of the semester and exam weeks.
+	Moderation: users can report a post, and an admin can remove it.
+	Compatibility: works on common mobile browsers and on desktop.
 Data the system needs to store
-•	Users: name, school email, phone number (optional), role (student, staff, admin), date joined
-•	Items: type (lost or found), category, description, photo, place, date and time, holding location, status (open, claimed, returned, expired), poster, date posted
-•	Verification question for each found item and its correct answer (kept private)
-•	Claims: item, claimant, their answer, status (pending, approved, rejected), date
-•	Reports: post reported, reason, reporter, status
-•	Categories and places: lists for the filters (for example lecture halls, library, cafeteria, hostels)
+	Users: name, school email, phone number (optional), role (student, staff, admin), date joined
+	Items: type (lost or found), category, description, photo, place, date and time, holding location, status (open, claimed, returned, expired), poster, date posted
+	Verification question for each found item and its correct answer (kept private)
+	Claims: item, claimant, their answer, status (pending, approved, rejected), date
+	Reports: post reported, reason, reporter, status
+	Categories and places: lists for the filters (for example lecture halls, library, cafeteria, hostels)
  Approach (before choosing a language)
 The work starts with the people and the process, then the data, then the screens.
 Main parts of the system
@@ -191,25 +191,25 @@ Assumption: students will post found items	The system depends on finders	Make po
 Assumption: students have phones and data	The site is mobile-first	Keep pages light and test on slow connections
 10. Success Metrics
 Set the final targets after your first test period. The numbers below are starting suggestions.
-•	Adoption: at least 100 registered users in the first month of testing.
-•	Activity: at least 50 items posted (lost and found combined) in the first month.
-•	Return rate: at least 40% of posted items are marked as returned within 14 days.
-•	Speed: the average time from posting to return is under 3 days.
-•	Ease of use: at least 90% of test users post an item without help, in under 2 minutes.
-•	Trust: an average rating of 4 out of 5 or better in a short feedback question, and fewer than 2 false-claim reports per 100 claims.
-•	Reach: at least 3 departments and 2 hostels have users who posted or claimed an item.
-•	Repeat use: at least 30% of users return to the site within a month.
+	Adoption: at least 100 registered users in the first month of testing.
+	Activity: at least 50 items posted (lost and found combined) in the first month.
+	Return rate: at least 40% of posted items are marked as returned within 14 days.
+	Speed: the average time from posting to return is under 3 days.
+	Ease of use: at least 90% of test users post an item without help, in under 2 minutes.
+	Trust: an average rating of 4 out of 5 or better in a short feedback question, and fewer than 2 false-claim reports per 100 claims.
+	Reach: at least 3 departments and 2 hostels have users who posted or claimed an item.
+	Repeat use: at least 30% of users return to the site within a month.
 11. Future Improvements
-•	Automatic matching of lost items to found items by category, description, and photo
-•	Email, WhatsApp, or push notifications when a possible match is posted
-•	QR code stickers that students can attach to their belongings
-•	Integration with the school portal for sign-in
-•	Direct integration with the security unit's item records
-•	A map of campus locations to show where items were lost or found
-•	Dashboard for the school showing the most common items and hotspot locations
-•	Support for multiple campuses or schools
-•	Rewards or thank-you badges for helpful finders
-•	A mobile app
+	Automatic matching of lost items to found items by category, description, and photo
+	Email, WhatsApp, or push notifications when a possible match is posted
+	QR code stickers that students can attach to their belongings
+	Integration with the school portal for sign-in
+	Direct integration with the security unit's item records
+	A map of campus locations to show where items were lost or found
+	Dashboard for the school showing the most common items and hotspot locations
+	Support for multiple campuses or schools
+	Rewards or thank-you badges for helpful finders
+	A mobile app
 12. Conclusion
 Losing something on campus is a common problem, and the current methods are scattered, slow, and unreliable. WhatsApp posts reach only a few people, notice boards are seen by few, and the security desk is not visible online. FoundIt gives the school one simple, searchable place where lost and found items meet, with a safe verification step before an item is handed over. The MVP focuses on posting, searching, claiming, and returning items, and leaves out complex features until real usage shows what is needed. If it works, owners get their belongings back faster, honest finders have an easy way to return things, and the school gains a clearer picture of how items go missing. The next steps are to complete the survey, meet the security unit, build the first version, and measure it against the success metrics above.
 
